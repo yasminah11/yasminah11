@@ -1,4 +1,4 @@
-````md
+```md
 <div align="center">
 
 <h1>
@@ -6,235 +6,306 @@ Yasmin Ahmed
 </h1>
 
 <h3>
-Frontend Developer | React Developer | UI Engineer
+Frontend Developer crafting modern web experiences
 </h3>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Creating+Clean+User+Experiences;Turning+Designs+Into+Interactive+Products"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=React+Developer;UI+Engineering+Enthusiast;Building+Scalable+Web+Applications;Turning+Designs+Into+Reality"/>
 
 
 <br><br>
 
 
 <p>
-I create modern, responsive and interactive web experiences
-<br>
-with a focus on clean code, performance and user experience.
+I build responsive and interactive web applications
+with modern frontend technologies, clean architecture,
+and a strong focus on user experience.
 </p>
 
 
-</div>
-
-
 <br>
 
 
-## About Me
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 
-<div align="center">
+</div>
 
-I am a Frontend Developer passionate about building digital products
-that combine great design with powerful functionality.
 
 <br><br>
 
-My focus is creating scalable interfaces using modern frontend technologies
-and transforming ideas into real-world applications.
 
-</div>
+# My Story
 
 
-<br>
+I started my journey by exploring how websites are built
+and gradually turned that curiosity into creating complete
+digital experiences.
 
+Today, I focus on developing modern interfaces,
+transforming designs into functional applications,
+and building solutions that balance performance,
+usability, and visual quality.
 
-## My Development Focus
-
-
-```javascript
-const yasmin = {
-
-  role: "Frontend Developer",
-
-  technologies: [
-    "React.js",
-    "JavaScript",
-    "HTML",
-    "CSS",
-    "Bootstrap"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST APIs"
-  ],
-
-  mindset:
-  "Clean Code | Modern UI | Better Experience"
-
-};
-````
 
 <br>
 
-## Tech Stack
 
-<div align="center">
+# What I Build
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,git,github,figma,vscode&theme=dark"/>
-
-</div>
-
-<br>
-
-# Featured Projects
 
 <table>
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-<h2 align="center">
-RBF-S Platform
-</h2>
 
-<p align="center">
+<h3>
+Frontend Applications
+</h3>
 
-Full Stack Web Application built with React and Node.js.
 
-Designed with a modern architecture focusing on
-performance, usability and smooth user interaction.
+Building responsive and interactive interfaces
+using React, JavaScript, and modern frontend tools.
 
-</p>
-
-<p align="center">
-
-<b>Technologies</b>
-
-<br>
-
-React.js • Node.js • Express.js • MongoDB • REST API
-
-</p>
-
-<p align="center">
-
-<a href="https://rbf-s.netlify.app">
-
-Live Demo
-
-</a>
-
-</p>
 
 </td>
 
-<td width="50%" valign="top">
 
-<h2 align="center">
-Manarat Al-Qiyam Academy
-</h2>
+<td width="33%" align="center">
 
-<p align="center">
 
-Educational platform designed to provide
-a modern and interactive learning experience.
+<h3>
+UI Engineering
+</h3>
 
-</p>
 
-<p align="center">
+Converting designs into clean,
+pixel-perfect and user-friendly experiences.
 
-<b>Technologies</b>
-
-<br>
-
-HTML • CSS • JavaScript • Bootstrap
-
-</p>
-
-<p align="center">
-
-Educational Web Platform
-
-</p>
 
 </td>
+
+
+<td width="33%" align="center">
+
+
+<h3>
+Full Stack Integration
+</h3>
+
+
+Connecting frontend applications
+with APIs and backend services.
+
+
+</td>
+
 
 </tr>
 
 </table>
 
+
 <br>
+
+
+# Technical Skills
+
+
+## Frontend
+
+```
+
+React.js
+JavaScript
+HTML5
+CSS3
+Bootstrap
+Responsive Design
+UI Implementation
+
+```
+
+
+## Backend
+
+```
+
+Node.js
+Express.js
+REST APIs
+MongoDB
+
+```
+
+
+## Tools
+
+```
+
+Git
+GitHub
+Figma
+VS Code
+Postman
+
+```
+
+
+<br>
+
+
+# Featured Projects
+
+
+## RBF-S Platform
+
+
+A full-stack web application built with React
+and Node.js, focused on creating a modern
+and smooth user experience.
+
+
+### What I worked on
+
+- Building responsive React interfaces
+- Creating reusable components
+- Connecting frontend with backend services
+- Improving user experience and performance
+
+
+### Stack
+
+```
+
+React.js
+Node.js
+Express.js
+MongoDB
+REST API
+
+```
+
+
+Live Demo:
+https://rbf-s.netlify.app
+
+
+
+<br><br>
+
+
+---
+
+
+<br>
+
+
+## Manarat Al-Qiyam Academy
+
+
+An educational platform designed to provide
+a modern learning experience through a clean
+and interactive interface.
+
+
+### What I worked on
+
+- Designing responsive layouts
+- Creating interactive sections
+- Organizing content structure
+- Preparing JavaScript architecture for future API integration
+
+
+### Stack
+
+```
+
+HTML
+CSS
+JavaScript
+Bootstrap
+
+```
+
+
+
+<br>
+
 
 # Development Journey
 
+
 ```
+
 2025
 
+Learning & Building
+|
+|
 Frontend Development
-        |
-        |
-Responsive Websites
-        |
-        |
-Interactive User Interfaces
-        |
-        |
-Freelance Projects
-
+|
+|
+Professional Web Projects
+|
+|
+Freelance Experience
 
 2026
 
 React Applications
-        |
-        |
+|
+|
 Full Stack Development
-        |
-        |
-Building Scalable Solutions
+|
+|
+Building Scalable Products
+
 ```
+
 
 <br>
 
-# Let's Connect
+
+# Let's Create Something Great
+
+
+I am always interested in building meaningful digital products
+and collaborating on creative web projects.
+
+
+<br>
+
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="YOUR_PORTFOLIO">
-
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
-</a>
-
-<a href="YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-</div>
-
-<br><br>
-
-<div align="center">
 
 ## Quote I Live By
 
+
 <br>
 
-> "The best way to predict the future is to create it."
+
+> "Great products are built by people who care about details."
+
 
 <br><br>
 
+
 <img src="https://camo.githubusercontent.com/43e5a52898ea4be287096bb93f90c434fc51dad4ba1a56c1b4038b6d1e812fd1/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" width="500"/>
+
 
 </div>
 ```
