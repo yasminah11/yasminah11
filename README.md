@@ -1,4 +1,4 @@
-````md
+<img width="675" height="613" alt="photo" src="https://github.com/user-attachments/assets/bce25392-2ad0-4776-8ef3-ee135557110a" />````md
 
 <div align="center">
 
@@ -14,7 +14,7 @@ Frontend Developer | React Developer | UI Engineer
 
 </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Creating+Clean+User+Experiences;Turning+Designs+Into+Interactive+Products"/>
+<img src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Creating+Clean+User+Experiences;Turning+Designs+Into+Interactive+Products](https://pin.it/3cif5b3BY)"/>
 
 <br><br>
 
